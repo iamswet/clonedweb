@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="83" viewBox="0 0 40 83">
+  <g id="Group_28457" data-name="Group 28457" transform="translate(24494 1222.582)">
+    <g id="Group_28455" data-name="Group 28455" transform="translate(-24786 -10348.582)">
+      <g id="Ellipse_1210" data-name="Ellipse 1210" transform="translate(292 9126)" fill="rgba(34,30,38,0)" stroke="#04c1f3" stroke-width="1">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="19.5" fill="none"/>
+      </g>
+      <path id="facebook-f-brands" d="M32.9,11.25l.555-3.62H29.982V5.282a1.81,1.81,0,0,1,2.041-1.955H33.6V.245A19.254,19.254,0,0,0,30.8,0c-2.86,0-4.73,1.734-4.73,4.872V7.63H22.89v3.62h3.179V20h3.913V11.25Z" transform="translate(283.753 9136)" fill="#04c1f3"/>
+    </g>
+    <g id="Group_28456" data-name="Group 28456" transform="translate(-24786 -10305.582)">
+      <g id="Ellipse_1210-2" data-name="Ellipse 1210" transform="translate(292 9126)" fill="rgba(34,30,38,0)" stroke="#707070" stroke-width="1">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="19.5" fill="none"/>
+      </g>
+      <path id="facebook-f-brands-2" data-name="facebook-f-brands" d="M32.9,11.25l.555-3.62H29.982V5.282a1.81,1.81,0,0,1,2.041-1.955H33.6V.245A19.254,19.254,0,0,0,30.8,0c-2.86,0-4.73,1.734-4.73,4.872V7.63H22.89v3.62h3.179V20h3.913V11.25Z" transform="translate(283.753 9136)" fill="#908e92"/>
+    </g>
+  </g>
+</svg>
